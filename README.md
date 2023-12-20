@@ -16,12 +16,14 @@
 ## Screenshots
 
 - 首頁 Index
-![Index](screenshots/index.png)
+  - ![Index](screenshots/index.png)
 
 - Product detail Modal
+  - https://github.com/MollyLin/vue3-vip-mart/assets/7385444/41ca03cf-e044-4790-beba-6107fa0cf608
+
 
 - 權限驗證 Passcode
-- ![Passcode](screenshots/passcode.jpeg)
+  - ![Passcode](screenshots/passcode.jpeg)
 
 ## How I use it?
 
