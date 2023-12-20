@@ -15,13 +15,15 @@
 
 ## Screenshots
 
-- 首頁 Index
-![Index](screenshots/index.png)
+### 首頁 Index
+![index](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/c3257414-4dc1-4313-9775-439661558f20)
 
-- Product detail Modal
+### Product detail Modal
+![open-product-modal](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/ac8a652a-51fc-4e62-b697-221cd2431ef6)
 
-- 權限驗證 Passcode
-- ![Passcode](screenshots/passcode.jpeg)
+### 權限驗證 Passcode
+![passcode](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/2ec641d9-968f-4bf5-8739-fdf52957f998)
+
 
 ## How I use it?
 
