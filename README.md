@@ -19,10 +19,11 @@
 ![index](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/c3257414-4dc1-4313-9775-439661558f20)
 
 ### Product detail Modal
-![open modal](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/41ca03cf-e044-4790-beba-6107fa0cf608)
+![open-product-modal](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/ac8a652a-51fc-4e62-b697-221cd2431ef6)
 
 ### 權限驗證 Passcode
-![passcode](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/7b977b95-1141-4baf-84c2-999fff5657e6)
+![passcode](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/2ec641d9-968f-4bf5-8739-fdf52957f998)
+
 
 ## How I use it?
 
