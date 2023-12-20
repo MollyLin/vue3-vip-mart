@@ -15,14 +15,14 @@
 
 ## Screenshots
 
-首頁 Index
-- ![index](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/91a6eaad-cc6f-451e-82b8-a20b9d67d337)
+### 首頁 Index
+![index](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/c3257414-4dc1-4313-9775-439661558f20)
 
-Product detail Modal
-- ![](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/41ca03cf-e044-4790-beba-6107fa0cf608)
+### Product detail Modal
+![open modal](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/41ca03cf-e044-4790-beba-6107fa0cf608)
 
-權限驗證 Passcode
-- ![passcode](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/7b977b95-1141-4baf-84c2-999fff5657e6)
+### 權限驗證 Passcode
+![passcode](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/7b977b95-1141-4baf-84c2-999fff5657e6)
 
 ## How I use it?
 
