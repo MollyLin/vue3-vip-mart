@@ -1,5 +1,7 @@
 # ec-vip-vue 隱形賣場
 
+改善原先在 MVC 裡的 jQuery 架構，前後端分離有效提昇開發效率。
+
 ## Tech Stack
 
 | **Package** | **Version** |
