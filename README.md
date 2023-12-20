@@ -24,6 +24,9 @@
 ### 權限驗證 Passcode
 ![passcode](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/2ec641d9-968f-4bf5-8739-fdf52957f998)
 
+### Vitest UI
+![網頁擷取_20-12-2023_15250_localhost](https://github.com/MollyLin/vue3-vip-mart/assets/7385444/af313c4b-d183-4e80-80a4-a3bc4b923a71)
+
 
 ## How I use it?
 
