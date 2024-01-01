@@ -2,6 +2,10 @@
 
 改善原先在 MVC 裡的 jQuery 架構，前後端分離有效提昇開發效率。
 
+因涉及公司營業機密，故不公開程式原始碼，謹以截圖示意。
+
+reference repository: [core code](https://github.com/MollyLin/vue3-vip-mart-core)、[Swagger](https://github.com/MollyLin/vue3-vip-mart-swagger)
+
 ## Tech Stack
 
 | **Package** | **Version** |
